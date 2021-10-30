@@ -1,6 +1,9 @@
 # Remind me
 
+#### Home Page
 ![Home Screen](image.png)
+
+#### Whatsapp Screenshot
 ![Screenshot](img2.png)
 
 Simple to use Reminder Application in which user can create reminder, as well as can delete the reminder, after setting reminder user will be notified on their whatsapp.😀
