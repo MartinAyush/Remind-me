@@ -16,10 +16,10 @@ Simple to use Reminder Application in which user can create reminder, as well as
 
 # Tech stack
 
-### frontend - React.js, HTML, CSS, Javascript
-### backend - Node.js, Express.js, Mongodb
+### Front-end - React.js, HTML, CSS, Javascript
+### Backend - Node.js, Express.js, Mongodb
 
 # TO use project first
 
-### 'npm install' in both frontend and backend
-### In backend setup .env twilio ACCOUNT_SSID and AUTH_TOKEN, WHATSAPP_FRON and WHATSAPP_TO
+### 'npm install' in both front-end and backend
+### In backend setup .env twilio ACCOUNT_SSID and AUTH_TOKEN, WHATSAPP_FROM and WHATSAPP_TO
